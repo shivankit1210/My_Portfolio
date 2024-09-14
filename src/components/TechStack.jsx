@@ -7,7 +7,7 @@ const TechStack = () => {
     <>
       <div className="flex flex-col mt-16 items-center  h-[100vh] ">
         <div className="mb-16">
-          <h1 className="font-bold text-4xl underline text-gray-800">My Tech Stack</h1>
+          <h1 className="font-bold text-4xl underline text-gray-800">MY TECH STACK</h1>
         </div>{" "}
         <div className="flex flex-wrap justify-center items-center space-x-4 space-y-4 p-4 w-[80%] ">
           {IconsData.map(({ id, Icon, title }) => (
